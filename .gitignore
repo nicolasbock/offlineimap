@@ -1,19 +1,19 @@
 # Backups.
-.*.swp
-.*.swo
-*~
+# .*.swp
+# .*.swo
+# *~
 # websites.
-/website/
-/wiki/
+# /website/
+# /wiki/
 # Generated files.
-*.html
-*.css
-/docs/dev-doc/
-/build/
-*.pyc
-offlineimap.1
-offlineimapui.7
+# *.html
+# *.css
+# /docs/dev-doc/
+# /build/
+# *.pyc
+# offlineimap.1
+# offlineimapui.7
 # Editors/IDEs
-tags
+# tags
 # Generated conf files for Travis-CI tests.
-oli-travis.conf
+# oli-travis.conf
